@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Example App",
-    "slug": "com.urbina.example-app",
+    "slug": "com-urbina-example-app",
     "privacy": "public",
     "sdkVersion": "33.0.0",
     "platforms": [
